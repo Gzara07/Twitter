@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Twitter</string>
+    <string name="name_account">Zara</string>
+    <string name="Login_account">@mmiszara</string>
+    <string name="location">Kyrgyzstan</string>
+    <string name="meeting_day">Joined March 2019</string>
+    <string name="edit">Edit Profile</string>
+</resources>
