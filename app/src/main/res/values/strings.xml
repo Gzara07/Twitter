@@ -5,4 +5,12 @@
     <string name="location">Kyrgyzstan</string>
     <string name="meeting_day">Joined March 2019</string>
     <string name="edit">Edit Profile</string>
+    <string name="following_count">31</string>
+    <string name="Following">Following</string>
+    <string name="Followers">Followers</string>\
+    <string name="Followers_count">4</string>
+    <string name="tweet">Tweets</string>
+    <string name="tweets">Tweets &amp; replies</string>
+    <string name="media">Media</string>
+    <string name="likes">Likes</string>
 </resources>
