@@ -213,8 +213,7 @@
             android:textColor="@color/grey"
             android:textSize="20dp"
             app:layout_constraintStart_toEndOf="@id/text"
-            android:textStyle="bold"
-            co>
+            android:textStyle="bold">
         </TextView>
 
     </LinearLayout>
