@@ -13,4 +13,12 @@
     <string name="tweets">Tweets &amp; replies</string>
     <string name="media">Media</string>
     <string name="likes">Likes</string>
+    <string name="who_to_follow">Who to Follow</string>
+    <string name="Jxdn">jxdn</string>
+    <string name="id_jxdn">@jxdn</string>
+    <string name="josh">Josh</string>
+    <string name="JoshRichard">@JoshRichard</string>
+    <string name="economist">Economist</string>
+    <string name="economist2">@economist_kg</string>
+    <string name="follow">Follow</string>
 </resources>
